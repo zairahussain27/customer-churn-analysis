@@ -1,0 +1,27 @@
+Write answers to these 10 questions (don’t analyze yet):
+
+What is the overall churn rate?
+
+Which contract type has highest churn?
+
+How does tenure affect churn?
+
+Do high monthly charges increase churn?
+
+Which payment methods are riskier?
+
+Which customer segment contributes most to churn?
+
+Are long-term customers more loyal?
+
+Does internet service type affect churn?
+
+Which group should be targeted first for retention?
+
+What business action can reduce churn fastest?
+
+Total rows before vs after cleaning (should match)
+
+Any nulls left? (should be none in key columns)
+
+Does churn column still make sense?

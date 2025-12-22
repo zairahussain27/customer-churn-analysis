@@ -20,7 +20,18 @@ print("Categorical columns : ",df.select_dtypes(exclude=['number']).columns)
 
 
 """
+print(df.columns)
 
+df['Churn']=df['Churn'].map({'Yes':1,'No':0})
+#
+print(df.groupby('Churn')['MonthlyCharges'].mean().sort_values(ascending=False))
+
+print(df.groupby('Churn')['tenure'].mean())
+
+print(df.groupby('Churn')['MonthlyCharges'].mean())
+
+
+"""
 #TotalCharges → it is wrongly read as text format
 print(df["TotalCharges"].dtype)
 df["TotalCharges"]=pd.to_numeric(df["TotalCharges"],errors="coerce").astype("float")
@@ -73,4 +84,4 @@ choices_MonthlyCharges=[
 ]
 df["charge_bucket"]=np.select(conditions_MonthlyCharges,choices_MonthlyCharges,default="Not Specified")
 
-print(df["charge_bucket"].value_counts())
+print(df["charge_bucket"].value_counts())"""

@@ -1,12 +1,18 @@
 Write answers to these 10 questions (don’t analyze yet):
 
-What is the overall churn rate?
+What is the overall churn rate?         7043
 
-Which contract type has highest churn?
+Which contract type has highest churn?  Churn
+                                        1    74.441332
+                                        0    61.265124
 
-How does tenure affect churn?
+How does tenure affect churn?           Churn
+                                        0    37.569965
+                                        1    17.979133
 
-Do high monthly charges increase churn?
+Do high monthly charges increase churn? Churn
+                                        0    61.265124
+                                        1    74.441332
 
 Which payment methods are riskier?
 

@@ -28,6 +28,3 @@ What business action can reduce churn fastest?
 
 Total rows before vs after cleaning (should match)
 
-Any nulls left? (should be none in key columns)
-
-Does churn column still make sense?

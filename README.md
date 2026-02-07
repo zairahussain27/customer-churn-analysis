@@ -1,4 +1,4 @@
-# Customer Churn Analysis (SQL + Power BI)
+# Customer Churn Analysis & Prediction | SQL, Python, Power BI
 
 ## 📌 Business Problem
 Customer churn directly impacts revenue and growth.  
@@ -53,7 +53,23 @@ This project analyzes customer behavior to identify key factors driving churn an
 - Long-term contracts significantly reduce churn
 
 ---
+---
 
+## Project Outcome
+- Identified high-risk customers likely to churn
+- Provided business insights to improve retention
+- Built interactive dashboard for decision making
+
+---
+---
+
+## Project Structure
+- data/ → dataset files
+- notebook/ → analysis notebook
+- dashboard/ → Power BI file
+- README.md → project documentation
+  
+---
 ## 📊 Dashboard Preview
 *(Add Power BI dashboard screenshot here)*
 

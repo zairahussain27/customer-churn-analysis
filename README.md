@@ -71,7 +71,8 @@ This project analyzes customer behavior to identify key factors driving churn an
   
 ---
 ## 📊 Dashboard Preview
-*(Add Power BI dashboard screenshot here)*
+<img width="957" height="534" alt="image" src="https://github.com/user-attachments/assets/979c0b87-1447-49cf-a666-812ebd260e07" />
+
 
 ---
 

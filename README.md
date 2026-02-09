@@ -71,7 +71,7 @@ This project analyzes customer behavior to identify key factors driving churn an
   
 ---
 ## 📊 Dashboard Preview
-<img width="957" height="534" alt="image" src="https://github.com/user-attachments/assets/979c0b87-1447-49cf-a666-812ebd260e07" />
+<img width="1272" height="714" alt="image" src="https://github.com/user-attachments/assets/2d42075d-1a13-405b-8798-9aed04144804" />
 
 
 ---

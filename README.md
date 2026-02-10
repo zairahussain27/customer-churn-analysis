@@ -53,14 +53,12 @@ This project analyzes customer behavior to identify key factors driving churn an
 - Long-term contracts significantly reduce churn
 
 ---
----
 
 ## Project Outcome
 - Identified high-risk customers likely to churn
 - Provided business insights to improve retention
 - Built interactive dashboard for decision making
 
----
 ---
 
 ## Project Structure
@@ -72,8 +70,36 @@ This project analyzes customer behavior to identify key factors driving churn an
 ---
 ## 📊 Dashboard Preview
 <img width="1272" height="714" alt="image" src="https://github.com/user-attachments/assets/2d42075d-1a13-405b-8798-9aed04144804" />
+🔹 Insight 1 — Contract
 
+Customers on month-to-month contracts have the highest churn rate compared to yearly and two-year contracts. Long-term contracts significantly improve retention.
+
+🔹 Insight 2 — Tenure
+
+Customers with tenure below one year show the highest churn, indicating early dissatisfaction or weak onboarding experience.
+
+🔹 Insight 3 — Charges
+
+Customers with higher monthly charges churn more frequently, suggesting pricing sensitivity and need for better value perception.
+
+🔹 Insight 4 — Payment method
+
+Customers using electronic check show higher churn than automatic payment users, indicating lower engagement or trust.
+
+🔹 Insight 5 — Loyal segment
+
+Customers with long tenure and yearly contracts show lowest churn, representing the most stable and profitable segment.
+
+🔹 Insight 6 — Overall
+
+Approximately ___% of customers have churned, representing a significant revenue risk and highlighting the need for targeted retention strategies.
 
 ---
+## 💼 Business Recommendations
+- Promote long-term contracts through discounts
+- Offer onboarding support for new customers
+- Provide loyalty rewards for high-tenure users
+- Introduce pricing bundles for high-charge customers
 
+---
 ## 📁 Repository Structure

@@ -102,25 +102,29 @@ Approximately ___% of customers have churned, representing a significant revenue
 - Introduce pricing bundles for high-charge customers
 
 ---
+
 ## 📁 Repository Structure
-📁 customer-churn-analysis
+
+```
+customer-churn-analysis
 │
-├── 📁 data
-│   ├── raw_churn_data.csv              # Original raw dataset
-│   └── cleaned_churn_data.csv          # Cleaned dataset used for analysis
+├── data
+│   ├── raw_churn_data.csv
+│   └── cleaned_churn_data.csv
 │
-├── 📁 notebooks
-│   └── main.ipynb                      # Data cleaning, EDA and feature engineering
+├── notebooks
+│   └── churn_analysis.ipynb
 │
-├── 📁 sql
-│   └── churn_analysis.sql              # SQL queries for business analysis
+├── sql
+│   └── churn_analysis.sql
 │
-├── 📁 dashboard
-│   └── Churn Analysis.pbix             # Power BI dashboard file
+├── dashboard
+│   └── Churn Analysis.pbix
 │
-├── 📁 docs
-│   └── Information_Churn.txt           # Project notes & business insights
+├── docs
+│   └── business_insights.txt
 │
-├── README.md                           # Project documentation
-└── requirements.txt (optional)         # Python libraries used
+└── README.md
+```
+
 ---

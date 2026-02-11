@@ -122,4 +122,5 @@ Approximately ___% of customers have churned, representing a significant revenue
 │   └── Information_Churn.txt           # Project notes & business insights
 │
 ├── README.md                           # Project documentation
-└── requirements.txt                    # Python libraries used
+└── requirements.txt (optional)         # Python libraries used
+---

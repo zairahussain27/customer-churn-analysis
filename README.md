@@ -103,3 +103,23 @@ Approximately ___% of customers have churned, representing a significant revenue
 
 ---
 ## 📁 Repository Structure
+📁 customer-churn-analysis
+│
+├── 📁 data
+│   ├── raw_churn_data.csv              # Original raw dataset
+│   └── cleaned_churn_data.csv          # Cleaned dataset used for analysis
+│
+├── 📁 notebooks
+│   └── main.ipynb                      # Data cleaning, EDA and feature engineering
+│
+├── 📁 sql
+│   └── churn_analysis.sql              # SQL queries for business analysis
+│
+├── 📁 dashboard
+│   └── Churn Analysis.pbix             # Power BI dashboard file
+│
+├── 📁 docs
+│   └── Information_Churn.txt           # Project notes & business insights
+│
+├── README.md                           # Project documentation
+└── requirements.txt                    # Python libraries used
